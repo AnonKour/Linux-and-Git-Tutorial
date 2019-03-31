@@ -1,0 +1,1 @@
+This project is a example project in order to help us understand Git better.
